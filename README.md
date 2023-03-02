@@ -34,6 +34,8 @@ f) 2,10, 12, 16, 17, 18, 19, 200
 
 R: Quando eles se cruzarem na rodovia ambos estaram mais próximos da cidade, porque eles estaram na mesma posição. 
 
+## Exercício 5
+[Inverte String](https://github.com/mateushlsilva/Target/tree/main/invertiString/src)
 
 
 
